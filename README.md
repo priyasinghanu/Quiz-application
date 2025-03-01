@@ -11,6 +11,13 @@ Features:
    -> The homepage displays a "Quiz" title.        
    -> A single question appears at a time with four answer options..      
    -> Users can select an answer and submit their response.
+   
+ Functionality:
+
+   -> The quiz consists of 7 predefined  questions related to computer science.       
+   -> Answers are evaluated in green.         
+   -> Incoreect answers are marked in red.        
+   -> Users can proceed to the next question after submitting in answer.        
    #OUTPUT
    ![Image](https://github.com/user-attachments/assets/3af4957c-71ad-4a17-ae11-a2e49da14dc7)    
 
